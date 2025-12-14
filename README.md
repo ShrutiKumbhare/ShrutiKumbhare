@@ -8,7 +8,7 @@ and systems thinking**, especially in real-world problem statements.
 
 
 📫 Reach me on LinkedIn  
-📁 Check out my projects below
+📁 Check out my pinned projects below
 
 <img src="https://skillicons.dev/icons?i=figma,python,github,flutter,html,css" />
 
