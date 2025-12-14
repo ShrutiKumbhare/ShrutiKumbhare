@@ -10,6 +10,10 @@ and systems thinking**, especially in real-world problem statements.
 📫 Reach me on LinkedIn  
 📁 Check out my projects below
 
+<img src="https://skillicons.dev/icons?i=figma,python,github,flutter,html,css" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=ShrutiKumbhare&show_icons=true&hide_border=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=ShrutiKumbhare&hide_border=true&theme=tokyonight" />
+
+
+
 
