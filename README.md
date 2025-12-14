@@ -14,6 +14,9 @@ and systems thinking**, especially in real-world problem statements.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShrutiKumbhare&show_icons=true&hide_border=true&theme=tokyonight" />
 
-
+### 🌿 Beyond Code
+🎨 I paint to express emotions  
+📖 I love quiet learning  
+✨ I believe technology should feel gentle, not loud
 
 
