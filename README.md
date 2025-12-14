@@ -10,7 +10,6 @@ and systems thinking**, especially in real-world problem statements.
 📫 Reach me on LinkedIn  
 📁 Check out my projects below
 
-<img src = "https://github-readme-stats.vercel.app/api?username=ShrutiKumbhare&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 <img src="https://github-readme-stats.vercel.app/api?username=ShrutiKumbhare&show_icons=true&hide_border=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=ShrutiKumbhare&hide_border=true&theme=tokyonight" />
 
